@@ -1,5 +1,5 @@
-id;name
-1;J.R.R. Tolkien
-2;J.K. Rowling
-3;Daniel Kahneman
-4;Marcus Aurelius
+id;name;age;height;nickname
+1;J.R.R. Tolkien;81;1.73;Tolkien
+2;J.K. Rowling;56;1.65;Joanne
+3;Daniel Kahneman;88;1.75;Danny
+4;Marcus Aurelius;59;1.70;Marcus
